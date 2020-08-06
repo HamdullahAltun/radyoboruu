@@ -6,7 +6,6 @@ const fs = require('fs');
 const ms = require('ms');
 const moment = require('moment');
 const Jimp = require('jimp');
-const db = require('quick.db');
 const YouTube = require("simple-youtube-api");
 const ytdl = require("ytdl-core");
 const youtube = new YouTube("AIzaSyAM6puOGL5PUbxrVKI6iFRRDnQ9P0RN6n8");
