@@ -22,12 +22,12 @@ ${prefix}kapat ➠ Radyoyu .` )
 exports.conf = {
   enabled: true,
   guildOnly: false,
-  aliases: [''],
+  aliases: [],
   permLevel: 0,
 };
 
 exports.help = {
-  name: 'müzik',
+  name: 'yardım',
   description: '',
   usage: ''
 };
